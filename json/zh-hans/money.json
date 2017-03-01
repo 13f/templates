@@ -1,0 +1,75 @@
+{
+  "templates": [
+    {
+	  "title": "收入",
+	  "type": "item",
+	  "template": {
+		"title": "",
+		"tags": "",
+	    "organization": null,
+		"place": null,
+	    "date": "",
+	    "money": "",
+	    "unit": "",
+	    "way": "现金/Papal/支付宝"
+	  }
+	},
+	{
+	  "title": "支出",
+	  "type": "item",
+	  "template": {
+		"title": "",
+		"tags": "",
+		"place": null,
+	    "date": "",
+	    "money": "",
+	    "unit": "",
+	    "way": "现金/信用卡/Papal/支付宝"
+	  }
+	}
+  ],
+  "defaultContent": {
+    "title": "Money - 2016",
+    "income": [
+      {
+		"title": "work~ work~",
+		"tags": "工资",
+		"company": "ABC有限公司",
+		"date": "2013-01-04",
+		"money": "9000",
+		"unit": "RMB",
+		"way": "Alipay"
+	  },
+	  {
+		"title": "WoW~~~~",
+		"tags": "彩票",
+		"date": "2013-01-22",
+		"money": "1000",
+		"unit": "RMB",
+		"way": "现金"
+	  }
+    ],
+    "payment": [
+      {
+		"title": "购买《飘》",
+		"tags": "书",
+		"place": "纽约ABC大道",
+		"date": "2013-01-04",
+		"money": "9.99",
+		"unit": "RMB",
+		"way": "现金"
+	  },
+	  {
+		"title": "Watch <Transformers>",
+		"tags": "电影; 娱乐",
+		"place": "巴黎ABC大街",
+		"date": "2013-01-04",
+		"money": "9.99",
+		"unit": "RMB",
+		"way": "信用卡"
+	  }
+    ],
+	"template": "money"
+  }
+  
+}

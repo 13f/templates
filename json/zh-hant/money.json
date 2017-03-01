@@ -1,0 +1,75 @@
+{
+  "templates": [
+    {
+	  "title": "收入",
+	  "type": "item",
+	  "template": {
+		"title": "",
+		"tags": "",
+	    "organization": null,
+		"place": null,
+	    "date": "",
+	    "money": "",
+	    "unit": "",
+	    "way": "cash/Papal/Alipay"
+	  }
+	},
+	{
+	  "title": "支出",
+	  "type": "item",
+	  "template": {
+		"title": "",
+		"tags": "",
+		"place": null,
+	    "date": "",
+	    "money": "",
+	    "unit": "",
+	    "way": "cash/credit card/Papal/Alipay"
+	  }
+	}
+  ],
+  "defaultContent": {
+    "title": "Money - 2016",
+    "income": [
+      {
+		"title": "work~ work~",
+		"tags": "工資",
+		"company": "ABC有限公司",
+		"date": "2013-01-04",
+		"money": "9000",
+		"unit": "新台幣",
+		"way": "Paypal"
+	  },
+	  {
+		"title": "WoW~~~~",
+		"tags": "彩票",
+		"date": "2013-01-22",
+		"money": "1000",
+		"unit": "港幣",
+		"way": "現金"
+	  }
+    ],
+    "payment": [
+      {
+		"title": "購買《飄》",
+		"tags": "書",
+		"place": "紐約ABC大道",
+		"date": "2013-01-04",
+		"money": "59.99",
+		"unit": "新台幣",
+		"way": "cash"
+	  },
+	  {
+		"title": "觀看《變形金剛》",
+		"tags": "電影; 娛樂",
+		"place": "巴黎ABC大街",
+		"date": "2013-01-04",
+		"money": "50",
+		"unit": "港幣",
+		"way": "信用卡"
+	  }
+    ],
+	"template": "money"
+  }
+  
+}

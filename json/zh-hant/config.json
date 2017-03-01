@@ -1,0 +1,21 @@
+{
+  "title": "json template configuration",
+  "items": [
+    {
+		"title": "書籤",
+		"key": "bookmark"
+	},
+	{
+		"title": "收藏",
+		"key": "collection"
+	},
+	{
+		"title": "Money",
+		"key": "money"
+	},
+	{
+		"title": "待辦事項/任務",
+		"key": "todo"
+	}
+  ]
+}

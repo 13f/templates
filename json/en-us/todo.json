@@ -1,0 +1,39 @@
+{
+  "templates": [
+    {
+	  "title": "todo/task",
+	  "type": "item",
+	  "template": {
+	    "title": "",
+		"description": "",
+		"created": "",
+		"modified": "",
+		"done": false,
+		"doneAt": null
+	  }
+	}
+  ],
+  "defaultContent": {
+    "title": "TODO/Task - 2016",
+    "items": [
+      {
+		"title": "watch a movie #1",
+		"description": "some more details",
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  },
+	  {
+		"title": "read a book #2",
+		"description": "some more details",
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  }
+    ],
+	"template": "todo"
+  }
+  
+}

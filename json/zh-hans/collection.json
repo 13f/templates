@@ -1,0 +1,58 @@
+{
+  "templates": [
+    {
+	  "title": "收藏",
+	  "type": "item",
+	  "template": {
+	    "title": "",
+		"description": "",
+		"created": "",
+		"modified": "",
+		"done": false,
+		"doneAt": null
+	  }
+	},
+	{
+	  "title": "购买记录",
+	  "type": "property",
+	  "property": "bought",
+	  "template": {
+	    "place": "",
+		"date": ""
+	  }
+	}
+  ],
+  "defaultContent": {
+    "title": "收藏·书籍",
+    "items": [
+      {
+		"title": "飘",
+		"description": "一些细节或笔记",
+		"isbn": "1234567890123",
+		"bought": {
+			"place": "纽约ABC大道",
+			"date": "2013-01-04"
+		},
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  },
+	  {
+		"title": "大数据",
+		"description": "一些细节或笔记",
+		"isbn": "1234567890123",
+		"bought": {
+			"place": "巴黎ABC大街",
+			"date": "2013-01-04"
+		},
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  }
+    ],
+	"template": "collection"
+  }
+  
+}

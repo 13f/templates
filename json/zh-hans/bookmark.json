@@ -1,0 +1,35 @@
+{
+  "templates": [
+    {
+	  "title": "书签",
+	  "type": "item",
+	  "template": {
+	    "title": "",
+		"description": "",
+		"tags": "",
+		"url": "",
+		"done": false,
+		"doneAt": null
+	  }
+	}
+  ],
+  "defaultContent": {
+    "title": "书签·建模/图形",
+    "items": [
+	  {
+		"title": "Blender 3D",
+		"description": "",
+		"tags": "建模; 3D",
+		"url": "http://www.blender.org/"
+	  },
+	  {
+		"title": "UbiGraph",
+		"description": "UbiGraph is a tool for visualizing dynamic graphs. The basic version is free, and talks to Python, Ruby, PHP, Java, C, C++, C#, Haskell, and OCaml.",
+		"tags": "dynamic graph",
+		"url": "http://www.ubietylab.net/ubigraph/index.html"
+	  }
+    ],
+	"template": "bookmark"
+  }
+  
+}

@@ -1,0 +1,39 @@
+{
+  "templates": [
+    {
+	  "title": "待办事项",
+	  "type": "item",
+	  "template": {
+	    "title": "",
+		"description": "",
+		"created": "",
+		"modified": "",
+		"done": false,
+		"doneAt": null
+	  }
+	}
+  ],
+  "defaultContent": {
+    "title": "TODO/Task - 2016",
+    "items": [
+      {
+		"title": "看某部电影 #1",
+		"description": "一些备注",
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  },
+	  {
+		"title": "读某本书 #2",
+		"description": "一些备注",
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  }
+    ],
+	"template": "todo"
+  }
+  
+}

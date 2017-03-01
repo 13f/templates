@@ -1,0 +1,58 @@
+{
+  "templates": [
+    {
+	  "title": "Collection",
+	  "type": "item",
+	  "template": {
+	    "title": "",
+		"description": "",
+		"created": "",
+		"modified": "",
+		"done": false,
+		"doneAt": null
+	  }
+	},
+	{
+	  "title": "bought log",
+	  "type": "property",
+	  "property": "bought",
+	  "template": {
+	    "place": "",
+		"date": ""
+	  }
+	}
+  ],
+  "defaultContent": {
+    "title": "Collection.Books",
+    "items": [
+      {
+		"title": "Gone with wind",
+		"description": "some details or note",
+		"isbn": "1234567890123",
+		"bought": {
+			"place": "ABC road, New York",
+			"date": "2013-01-04"
+		},
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  },
+	  {
+		"title": "Big data",
+		"description": "some details or note",
+		"isbn": "1234567890123",
+		"bought": {
+			"place": "ABC street, Paris",
+			"date": "2013-01-04"
+		},
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  }
+    ],
+	"template": "collection"
+  }
+  
+}

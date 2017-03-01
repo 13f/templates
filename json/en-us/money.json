@@ -1,0 +1,75 @@
+{
+  "templates": [
+    {
+	  "title": "Income",
+	  "type": "item",
+	  "template": {
+		"title": "",
+		"tags": "",
+	    "organization": null,
+		"place": null,
+	    "date": "",
+	    "money": "",
+	    "unit": "",
+	    "way": "cash/Papal/Alipay"
+	  }
+	},
+	{
+	  "title": "Payment",
+	  "type": "item",
+	  "template": {
+		"title": "",
+		"tags": "",
+		"place": null,
+	    "date": "",
+	    "money": "",
+	    "unit": "",
+	    "way": "cash/credit card/Papal/Alipay"
+	  }
+	}
+  ],
+  "defaultContent": {
+    "title": "Money - 2016",
+    "income": [
+      {
+		"title": "work~ work~",
+		"tags": "salary",
+	    "company": "ABC Ltd.",
+	    "date": "2013-01-04",
+	    "money": "9000",
+	    "unit": "$",
+	    "way": "Paypal"
+	  },
+	  {
+		"title": "WoW~~~~",
+		"tags": "lottery",
+		"date": "2013-01-22",
+		"money": "1000",
+		"unit": "$",
+		"way": "cash"
+	  }
+    ],
+    "payment": [
+      {
+		"title": "Buy <Gone with wind>",
+		"tags": "book",
+		"place": "ABC Road, New York",
+		"date": "2013-01-04",
+		"money": "9.99",
+		"unit": "$",
+		"way": "cash"
+	  },
+	  {
+		"title": "Watch <Transformers>",
+		"tags": "movie; entertainment",
+		"place": "ABC Street, Paris",
+		"date": "2013-01-04",
+		"money": "9.99",
+		"unit": "$",
+		"way": "credit card"
+	  }
+    ],
+	"template": "money"
+  }
+  
+}

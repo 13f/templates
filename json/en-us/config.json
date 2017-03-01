@@ -1,0 +1,21 @@
+{
+  "title": "json template configuration",
+  "items": [
+    {
+		"title": "Bookmark",
+		"key": "bookmark"
+	},
+	{
+		"title": "Collection",
+		"key": "collection"
+	},
+	{
+		"title": "Money",
+		"key": "money"
+	},
+	{
+		"title": "TODO/Task",
+		"key": "todo"
+	}
+  ]
+}

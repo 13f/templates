@@ -1,0 +1,39 @@
+{
+  "templates": [
+    {
+	  "title": "代辦事項",
+	  "type": "item",
+	  "template": {
+	    "title": "",
+		"description": "",
+		"created": "",
+		"modified": "",
+		"done": false,
+		"doneAt": null
+	  }
+	}
+  ],
+  "defaultContent": {
+    "title": "代辦事項/任務 - 2016",
+    "items": [
+      {
+		"title": "看某部電影 #1",
+		"description": "一些備註",
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  },
+	  {
+		"title": "讀某本書 #2",
+		"description": "一些備註",
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  }
+    ],
+	"template": "todo"
+  }
+  
+}

@@ -1,0 +1,58 @@
+{
+  "templates": [
+    {
+	  "title": "收藏",
+	  "type": "item",
+	  "template": {
+	    "title": "",
+		"description": "",
+		"created": "",
+		"modified": "",
+		"done": false,
+		"doneAt": null
+	  }
+	},
+	{
+	  "title": "購買記錄",
+	  "type": "property",
+	  "property": "bought",
+	  "template": {
+	    "place": "",
+		"date": ""
+	  }
+	}
+  ],
+  "defaultContent": {
+    "title": "收藏·書籍",
+    "items": [
+      {
+		"title": "飄",
+		"description": "一些細節或筆記",
+		"isbn": "1234567890123",
+		"bought": {
+			"place": "紐約ABC大道",
+			"date": "2013-01-04"
+		},
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  },
+	  {
+		"title": "大數據",
+		"description": "一些細節或筆記",
+		"isbn": "1234567890123",
+		"bought": {
+			"place": "巴黎ABC大街",
+			"date": "2013-01-04"
+		},
+		"created": "2013-01-04 05:20:00",
+		"modified": "2013-01-04 05:20:00",
+		"done": "false",
+		"doneAt": null
+	  }
+    ],
+	"template": "collection"
+  }
+  
+}
